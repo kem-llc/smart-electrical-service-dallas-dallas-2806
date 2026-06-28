@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Smart Electrical Service Dallas",
+    "shortName": "Smart Electrical",
+    "tagline": "Reliable, Safe, and Smart Electrical Solutions for Dallas Homes & Businesses",
+    "niche": "Electrician",
+    "phone": "(469) 526-2806",
+    "address": "2608 Silkwood St, Dallas, TX 75215",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun Closed",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now",
+    "city": "Dallas, TX"
+  },
+  "seo": {
+    "title": "Best Electrician in Dallas, TX | Smart Electrical Service Dallas",
+    "description": "Smart Electrical Service Dallas offers expert electrical repairs, installations, and upgrades. Licensed, insured, and trusted by Dallas homeowners. Call (469) 526-2806 for fast service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Electrician",
+      "headline": "Expert Electrical Services for Your Home & Business",
+      "subheadline": "From minor repairs to full rewiring, our licensed electricians deliver safe, reliable, and affordable solutions. Same-day service available in Dallas.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 526-2806"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Why Choose Us",
+        "title": "Licensed & Insured Electricians You Can Trust",
+        "body": "Every job is performed by certified electricians who prioritize safety and quality. We use top-grade materials and follow strict codes to ensure your peace of mind.",
+        "bullets": [
+          "All work guaranteed",
+          "Upfront pricing, no hidden fees",
+          "Clean and respectful crew"
+        ],
+        "reverse": false,
+        "cardLabel": "Safety First",
+        "cardTitle": "Rigorous Safety Standards",
+        "cardBody": "We adhere to the latest NEC codes and conduct thorough inspections to protect your property and family."
+      },
+      {
+        "eyebrow": "Service Promise",
+        "title": "Fast, Reliable Service When You Need It",
+        "body": "Electrical emergencies don't wait. Our team responds quickly to restore power and safety. We also offer convenient scheduling for planned upgrades.",
+        "bullets": [
+          "Same-day emergency service",
+          "On-time arrival guaranteed",
+          "Friendly, professional technicians"
+        ],
+        "reverse": true,
+        "cardLabel": "24/7 Support",
+        "cardTitle": "Emergency Electrical Repairs",
+        "cardBody": "Experiencing an outage or sparking outlet? Call us anytime for immediate assistance."
+      }
+    ],
+    "whyTitle": "Why Smart Electrical Service Dallas?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Full liability insurance and state licensing for your protection."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Free estimates with no surprise charges. We explain every cost upfront."
+      },
+      {
+        "title": "Experienced Team",
+        "description": "Master electricians with years of residential and commercial experience."
+      },
+      {
+        "title": "Customer Focused",
+        "description": "We treat your home like our own, leaving it clean and safe after every job."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Smart Electrical rewired our entire home. They were punctual, professional, and the price was fair. Highly recommend!",
+        "author": "Michael R.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "Had an emergency outage at 10pm. They arrived within an hour and fixed the issue quickly. Lifesavers!",
+        "author": "Jessica L.",
+        "role": "Uptown resident"
+      },
+      {
+        "quote": "We hired them for office lighting upgrades. The team was efficient and minimized disruption to our workday.",
+        "author": "David K.",
+        "role": "Bishop Arts business owner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Contact us today for a free consultation and estimate.",
+      "primaryCta": "Get Free Quote",
+      "secondaryCta": "Call (469) 526-2806"
+    }
+  },
+  "servicesPage": {
+    "intro": "Smart Electrical Service Dallas offers a full range of electrical services for residential and commercial clients. From simple repairs to complex installations, our licensed electricians deliver safe, code-compliant work with a smile."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Repairs & Troubleshooting",
+      "shortDescription": "Fast diagnosis and repair for flickering lights, dead outlets, breaker trips, and more.",
+      "longDescription": "Our skilled electricians use advanced diagnostic tools to pinpoint electrical issues quickly. Whether it's a faulty switch, a short circuit, or outdated wiring, we provide permanent fixes that restore safety and functionality.",
+      "benefits": [
+        "Same-day service for urgent repairs",
+        "Thorough inspection to prevent future problems",
+        "Upfront pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We test circuits, inspect panels, and identify the root cause."
+        },
+        {
+          "title": "Solution Proposal",
+          "description": "Explain the repair needed and provide a clear estimate."
+        },
+        {
+          "title": "Repair & Testing",
+          "description": "Complete the fix safely and test everything to ensure proper operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We offer same-day service and can usually arrive within 1-2 hours for urgent calls."
+        },
+        {
+          "question": "Do you charge for an estimate?",
+          "answer": "No, we provide free estimates for all repair work."
+        }
+      ],
+      "slug": "electrical-repairs-troubleshooting"
+    },
+    {
+      "icon": "02",
+      "title": "Panel Upgrades & Rewiring",
+      "shortDescription": "Modernize your electrical system with panel upgrades and full or partial rewiring.",
+      "longDescription": "Older homes often have outdated panels and wiring that can't handle today's power demands. We upgrade to safe, high-capacity systems that reduce fire risk and support modern appliances.",
+      "benefits": [
+        "Increased home safety and reduced fire risk",
+        "Supports heavy-duty appliances and electronics",
+        "May lower insurance premiums"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "Evaluate current panel capacity and wiring condition."
+        },
+        {
+          "title": "Permitting & Planning",
+          "description": "Handle all permits and design a code-compliant upgrade."
+        },
+        {
+          "title": "Installation & Inspection",
+          "description": "Install new panel and wiring, then pass final inspection."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "Signs include flickering lights, frequent breaker trips, or using many high-wattage devices."
+        },
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most upgrades are completed in one day, though older homes may require additional time."
+        }
+      ],
+      "slug": "panel-upgrades-rewiring"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Indoor and outdoor lighting solutions, from energy-efficient LEDs to custom fixtures.",
+      "longDescription": "Transform your space with professional lighting design and installation. We offer interior and exterior options, including recessed lighting, landscape lights, and smart home controls.",
+      "benefits": [
+        "Energy savings with LED technology",
+        "Enhanced curb appeal and home value",
+        "Smart controls for convenience and security"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "Discuss your vision, budget, and energy goals."
+        },
+        {
+          "title": "Design & Selection",
+          "description": "Recommend fixtures and layout for optimal illumination."
+        },
+        {
+          "title": "Installation & Programming",
+          "description": "Install lights and set up any smart features."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you install outdoor landscape lighting?",
+          "answer": "Yes, we specialize in low-voltage landscape lighting to highlight your yard and pathways."
+        },
+        {
+          "question": "Can you integrate lighting with smart home systems?",
+          "answer": "Absolutely. We work with popular platforms like Alexa, Google Home, and Lutron."
+        }
+      ],
+      "slug": "lighting-installation-design"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Electrical Services",
+      "shortDescription": "Reliable electrical solutions for offices, retail, restaurants, and industrial spaces.",
+      "longDescription": "Keep your business running smoothly with our commercial electrical services. From new construction wiring to maintenance and repairs, we minimize downtime and ensure code compliance.",
+      "benefits": [
+        "Minimal disruption to operations",
+        "Flexible scheduling including after-hours",
+        "Comprehensive service agreements available"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation",
+          "description": "Assess electrical needs and load requirements."
+        },
+        {
+          "title": "Custom Proposal",
+          "description": "Provide a detailed plan and timeline."
+        },
+        {
+          "title": "Execution & Follow-Up",
+          "description": "Complete work efficiently and provide ongoing support."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer emergency service for businesses?",
+          "answer": "Yes, we provide 24/7 emergency repairs for commercial clients."
+        },
+        {
+          "question": "Can you handle new construction projects?",
+          "answer": "Definitely. We work with builders and contractors to wire new commercial buildings."
+        }
+      ],
+      "slug": "commercial-electrical-services"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Electrician Since 2009",
+    "mission": "To provide safe, reliable, and affordable electrical services that exceed customer expectations, while maintaining the highest standards of professionalism and integrity.",
+    "story": [
+      "Smart Electrical Service Dallas was founded by master electrician John Smart, who saw a need for honest, high-quality electrical work in the Dallas area. Starting with a single truck and a commitment to excellence, John grew the business by treating every customer like family. Today, we serve thousands of homeowners and businesses across Dallas, from Lakewood to Uptown.",
+      "Our team continues to uphold John's values: transparent pricing, punctuality, and meticulous craftsmanship. We invest in ongoing training and the latest tools to ensure every job is done right the first time. Whether it's a simple outlet repair or a complete rewiring, we treat your property with the same care we would our own."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Safety",
+        "description": "We never compromise on safety. Every job follows strict protocols to protect you and your property."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest assessments, fair pricing, and transparent communication. You'll know exactly what to expect."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium materials and proven techniques to deliver lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home with respect, leaving it cleaner than we found it."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
+    "primaryCta": "Call (469) 526-2806",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Lakewood",
+      "Uptown",
+      "Bishop Arts",
+      "Oak Lawn",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4695262806",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
